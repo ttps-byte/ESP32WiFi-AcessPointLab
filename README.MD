@@ -1,11 +1,11 @@
 As you can see, we have two types of source code that can be used to build the AP with ESP32 hardware.
 
-#Recommended ESP32 specifications:
+## Recommended ESP32 Specifications
 
-Xtensa® Dual-Core 32-bit LX6
-2.4 GHz (integrated antenna)
-520 KB RAM
-448 KB ROM
-Up to 16-bit PWM (adjustable via code)
+- **Processor:** Xtensa® Dual-Core 32-bit LX6  
+- **Frequency:** 2.4 GHz (integrated antenna)  
+- **RAM:** 520 KB  
+- **ROM:** 448 KB  
+- **PWM:** Up to 16-bit (adjustable via code)
 
 Thx, enjoy!
